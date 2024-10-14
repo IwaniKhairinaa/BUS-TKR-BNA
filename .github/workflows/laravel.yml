@@ -43,4 +43,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
        push: true
-       tags: khairina/BUS-TKR-BNA:latest
+       tags: khairina/bus-tkr-bna:latest
